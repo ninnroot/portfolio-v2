@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'schedjuice5',
-                to: 'https://github.com/ninnnroot/schedjuice5',
+                to: 'https://github.com/ninnroot/schedjuice5',
               },
             ],
           },
