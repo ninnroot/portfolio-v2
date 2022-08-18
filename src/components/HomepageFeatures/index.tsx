@@ -33,9 +33,9 @@ export default function HomepageFeatures(): JSX.Element {
             </p>
           </Section>
           <Section slug="contacts" title="Contacts">
-            <p>Email: misterjames.thiha@gmail.com</p>
-            <p>Github: https://github.com/ninnroot</p>
-            <p>LinkedIn: lorem ipsum</p>
+            <p>Email: <a href="mailto:misterjames.thiha@gmail.com">misterjames.thiha@gmail.com</a></p>
+            <p>Github: <a href="https://github.com/ninnroot">ninnroot</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/thiha-swanhtet-679811214/">Thiha Swan Htet</a></p>
           </Section>
           <Section slug="what-i-do" title="What I do">
             <p>
@@ -139,7 +139,7 @@ export default function HomepageFeatures(): JSX.Element {
             </p>
             <p>
               The purpose of this site is to show off my programming skills and also to host design analyses 
-              of my past projects (also for my ION ambassador pre-task :)). Since I would be writing a lot of texts mostly, convenience was the primary 
+              of my past projects (also for my ION ambassador pre-entry task :)). Since I would be writing a lot of texts mostly, convenience was the primary 
               consideration while making this site.
             </p>
           </Section>
