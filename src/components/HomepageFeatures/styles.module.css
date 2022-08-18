@@ -9,3 +9,25 @@
   height: 200px;
   width: 200px;
 }
+
+.tech-container{
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tech-container > h3{
+  text-align: left;
+}
+
+
+
+.tech-col{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+
